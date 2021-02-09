@@ -1,0 +1,12 @@
+**Fixes**
+Make sure people have to be in the group chat to kick it
+
+make sure it throws an error if someone is in a different voice chat and tries to kick it out
+
+Change it so only certain people can type certain commands
+
+**Features**
+
+Add next to play command
+
+Trump Twitter or thought of the day

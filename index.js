@@ -2,6 +2,8 @@ const command = require('discord.js-commando');
 const Discord = require('discord.js');
 const bot = new command.Client();
 
+bot.login(TOKEN);
+
 bot.on('ready', function(){
 
   //A global variable used to tell if the bots in a voice channel
